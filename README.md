@@ -10,5 +10,7 @@ The goal of representation learning is different from the ultimate objective of 
 REQUIREMENTS
 
 PyTorch 1.8.0
+
 torchvision 0.9.0
+
 CUDA 11.0
