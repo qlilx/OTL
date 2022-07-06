@@ -1,7 +1,6 @@
-# odgrlm
+# OTL
 Clustering-based representation learning through output translation and its application to remote sensing images
 
-# This code is implementation of paper https://arxiv.org/abs/2107.05948
 
 ABSTRACT
 
