@@ -1,4 +1,5 @@
-# List of augmentations based on randaugment
+# This is from https://github.com/wvangansbeke/Unsupervised-Classification
+
 import random
 
 import PIL, PIL.ImageOps, PIL.ImageEnhance, PIL.ImageDraw
