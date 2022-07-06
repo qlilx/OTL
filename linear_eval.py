@@ -1,3 +1,7 @@
+This is from https://github.com/Spijkervet/SimCLR/blob/master/linear_evaluation.py
+
+
+
 import os
 import argparse
 import torch
